@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @iSamBa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @iSamBa, a robotic engineer and a passionate of web development
+- 👀 I’m interested in exchanging with you about robotics, web development or any related topics
+- 🌱 I’m currently learning Docker
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 How to reach me ~> [Twitter @iSamBa21](https://twitter.com/iSamBa21)
 
 <!---
 iSamBa/iSamBa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
