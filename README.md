@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Docker
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ~> [Twitter @iSamBa21](https://twitter.com/iSamBa21)
-- 💻 [ii-sam](https://ii-sam.com)
+- 💻 My website ~> [ii-sam](https://ii-sam.com)
 
 <!---
 iSamBa/iSamBa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
